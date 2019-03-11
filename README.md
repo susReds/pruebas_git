@@ -1,2 +1,1 @@
-# pruebas_git
-Pruebas con git
+Esto es un repositorio para realizar pruebas de comandos con git.
